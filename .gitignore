@@ -1,0 +1,26 @@
+# Project config files
+*.yml
+*.yaml
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.moved-aside
+*.pbxuser
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+.build/
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.swiftpm/
+.package.resolved
+
+# macOS
+.DS_Store
+*.swp
